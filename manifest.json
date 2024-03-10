@@ -1,12 +1,14 @@
 {
   "name": "Internet por Fichas",
   "short_name": "Internet por Fichas",
+  "description": "Bienvenid@s a Internet por Fichas donde podras adquirir tus fichas de internet al mejor precio :)",
   "theme_color": "#fcd535",
   "background_color": "#181a20",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
