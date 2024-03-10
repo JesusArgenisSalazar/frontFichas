@@ -3,7 +3,6 @@
 const CACHE_NAME = 'v1_cache_internetporfichas',
   urlsToCache = [
     '.',
-    'https://fonts.googleapis.com',
     'https://fonts.googleapis.com/css2?family=Lato&display=swap',
     'https://fonts.googleapis.com/icon?family=Material+Icons',
     'https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0',
